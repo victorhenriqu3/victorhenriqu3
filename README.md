@@ -5,6 +5,8 @@ In my free time, I like to play (and watch) football (⚽️), watch movies (�
 
 Would you like to meet me?
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-henrique-monteiro-lima-264004143/)](https://www.linkedin.com/in/victor-henrique-monteiro-lima-264004143/)
+
 <!--
 **victorhenriqu3/victorhenriqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
