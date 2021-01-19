@@ -2,17 +2,14 @@
 
 <h1 align="center"> Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 ## I'm Victor! Let me present a little about myself :D
 </h1>
-<br>
 
 <h3>
 Full-stack focused in Javascript 👨‍💻.<br>
 Lover of Technology and coding ❤️. <br>
  Since 2018 transforming ☕ into code 💻. 😉
 </h3>
-<br>
 
 ## Languages and Tools:
 
