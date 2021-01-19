@@ -1,9 +1,8 @@
 <img align="right" width="400" height="300" src="https://media.giphy.com/media/2UA9gXDkCbKIKlLKxd/giphy.gif">
 
-<h1 align="center"> Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## I'm Victor! Let me present a little about myself :D
-</h1>
 
 <h3>
 Full-stack focused in Javascript 👨‍💻.<br>
