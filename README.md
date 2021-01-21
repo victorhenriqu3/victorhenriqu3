@@ -29,7 +29,7 @@ Lover of Technology and coding ❤️. <br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorhenriqu3)](https://github.com/victorhenriqu3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/victor-henrique-monteiro-lima/)](https://www.linkedin.com/in/victor-henrique-monteiro-lima/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569992797337&text=Hello!)](https://api.whatsapp.com/send?phone=5569992797337&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:victorhenriqu3@outlook.com)](mailto:victorhenriqu3@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:victorhenriqu3@outlook.com)](mailto:victorhenriqu3@outlook.com)
 
 
 - Thanks for visiting. 
