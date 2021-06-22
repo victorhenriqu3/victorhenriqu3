@@ -14,9 +14,9 @@ Lover of Technology and coding ❤️. <br>
 
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
 
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node JS" height="40px" />
 
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 
