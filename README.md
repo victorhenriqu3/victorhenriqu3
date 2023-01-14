@@ -17,11 +17,6 @@ Com perfil voltado para desenvolvimento Front-End utilizando React, Javascript e
 📧 Fique à vontade para entrar em contato diretamente por: victorhenriqu3@outlook.com
 
  </div>
- 
- 
-## ⚙️  GitHub Analytics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhenriqu3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriqu3&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 🛠 Linguagens e ferramentas:
 
