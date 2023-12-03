@@ -6,11 +6,9 @@
 <div align="left">
  
 Mais de 3 anos de experiência em atuação com desenvolvimento.
-Com perfil voltado para desenvolvimento Front-End utilizando React, Javascript e Typescript, mas com proficiência ao Backend, além de contar com vivência em projetos de metodologia ágeis.
+Com perfil voltado para desenvolvimento Full Stack utilizando React, Node, Javascript e Typescript, além de contar com vivência em projetos de metodologia ágeis.
 
-✔ Estudante de ADS, apaixonado por tecnologia, programação e café ❤️.
-
-✔ Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes 🧠.
+🚀 Desenvolvedor Fullstack apaixonado por transformar ideias em grandes projetos!
 
 ✔ Desde 2018 transformando ☕ em código 💻.
 
